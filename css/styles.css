@@ -7,13 +7,21 @@ nav ul {
     list-style-type: none;
 }
 
+nav ul {
+    padding: 0;
+}
+
 nav ul li a {
     display: block;
     padding: .5rem 1rem;
     background-color: #f89c1f;
 }
 
+main img {
+    float: right;
+}
 
 footer {
+    clear: both;
     text-align: center;
 }
