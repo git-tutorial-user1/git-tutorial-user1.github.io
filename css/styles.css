@@ -1,0 +1,19 @@
+header h1 {
+    color: #0076bb;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav ul li a {
+    display: block;
+    padding: .5rem 1rem;
+    background-color: #f89c1f;
+}
+
+
+footer {
+    text-align: center;
+}
